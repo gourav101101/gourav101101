@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Gourav Chouhan</h1>
-<h3 align="center">A MERN Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A MERN & Next.js Developer from India 🇮🇳</h3>
 
 <p align="center">
-  I build scalable, user-friendly web applications using the MERN stack.<br/>
-  Passionate about clean code, performance, and real-world projects.
+  I build scalable, SEO-friendly, and high-performance web applications using<br/>
+  <b>MERN Stack & Next.js</b>.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 **MERN Stack Developer** (MongoDB, Express.js, React.js, Node.js)
+- 💻 **MERN Stack & Next.js Developer** (MongoDB, Express.js, React.js, Node.js, Next.js
 - 🔭 I have worked on live projects:
   - **Billistry** – https://billistry.com  
   - **SmartTech Info** – https://smarttechinfo.in  
