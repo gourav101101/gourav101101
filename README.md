@@ -15,6 +15,7 @@
   - **Billistry** – https://billistry.com  
   - **SmartTech Info** – https://smarttechinfo.in  
   - **IImagica** – https://iimagica.com
+  - **Pranodya** - https://www.pranodya.in
 - 🌱 Currently improving my skills in **Advanced React & Node.js**
 - 👯 Open to **freelance work & collaboration**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js**
